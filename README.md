@@ -7,7 +7,7 @@ In this project, your goal is to write a software pipeline to identify the lane 
 Write-up
 ---
 
-Please check out writeup.pdf
+Please check out [writeup.pdf](https://github.com/udacity/CarND-Advanced-Lane-Lines/blob/master/writeup.pdf)
 
 The Project
 ---
